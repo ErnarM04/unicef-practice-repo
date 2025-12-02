@@ -1,3 +1,3 @@
 # unicef-practice-repo
 ### Main branch
-- [x] Complete
+This is a repository for practicing the GitHub workflow.
